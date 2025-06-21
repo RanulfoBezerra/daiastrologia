@@ -1,6 +1,6 @@
 ---
 # Generate Decap CMS
-title: Dai Astrologia
+title: 'Dai Astrologia'
 type: decap_cms
 private: true
 outputs:
